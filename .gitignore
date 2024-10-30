@@ -1,0 +1,9 @@
+*.pdf
+
+# logs
+*.log
+
+# python stuff
+.DS_Store
+__pycache__
+.venv
